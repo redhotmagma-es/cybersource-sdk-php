@@ -10,7 +10,7 @@ set_include_path(get_include_path() . PATH_SEPARATOR . dirname(__FILE__) . '/con
  */
 class CybsClient extends SoapClient
 {
-    const CLIENT_LIBRARY_VERSION = "CyberSource PHP 1.0.0";
+    const CLIENT_LIBRARY_VERSION = "redhotmaga CyberSource PHP 1.0.1";
 
     private $merchantId;
     private $transactionKey;
