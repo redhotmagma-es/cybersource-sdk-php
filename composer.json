@@ -1,5 +1,5 @@
 {
-  "name": "cybersource/sdk-php",
+  "name": "redhotmagma-es/cybersource-sdk-php",
   "description": "CyberSource PHP SOAP client",
   "keywords": [
     "cybersource",
